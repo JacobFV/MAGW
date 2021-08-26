@@ -16,7 +16,7 @@ setup(
     packages=['smae'],  #same as name
     install_requires=[
         'numpy==1.19.0',
-        'tensorflow==2.2.0',
+        'tensorflow==2.5.1',
         'gym==0.17.2',
         'pillow==7.1.2'
     ],
