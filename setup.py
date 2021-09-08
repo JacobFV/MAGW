@@ -18,7 +18,7 @@ setup(
         'numpy==1.19.0',
         'tensorflow==2.5.1',
         'gym==0.17.2',
-        'pillow==8.2.0'
+        'pillow==8.3.2'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
