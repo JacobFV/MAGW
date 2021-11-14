@@ -1,6 +1,8 @@
 # smae - Social Multi-Agent Environment
 ![](https://img.shields.io/pypi/v/smae)
 
+**THIS PROJECT WAS NEVER FINISHED AND IS NOW ARCHIVED**
+
 Cooperation, competition, and communication in a 3-dimensional grid-world environment provided as a `gym.Environment`.
 
 Use this environment to explore
